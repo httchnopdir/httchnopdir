@@ -1,4 +1,4 @@
 $run
-   $exploit.jml
+- exploit.jml
 "say hello"
 $close
