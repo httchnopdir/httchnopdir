@@ -1,4 +1,3 @@
 $run
 - exploit.jml
-"say hello"
 $close
