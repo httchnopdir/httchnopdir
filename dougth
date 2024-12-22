@@ -1,4 +1,4 @@
 - $run
  - exploitcomment.jml
- -nocomment.jml
-$close
+ - mute.jml
+ - close
