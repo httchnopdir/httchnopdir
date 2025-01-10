@@ -2,6 +2,6 @@ def
 - $run
  - exploit
  - mute.jml
- - "image"
+ - "image.yaml"
  - close
 end
